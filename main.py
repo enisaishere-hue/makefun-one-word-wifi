@@ -4,6 +4,8 @@
 One word for the Wi-Fi: it wheezes, it drops, it gasps back to life
 every few minutes. The most honest diagnosis a network ever got.
 
+One word has to carry the whole complaint: the wheezing, the dropping, the gasping back to life.
+
 The program writes that one word to entry.txt in the output directory
 (MAKEFUN_OUTPUT_DIR, default /output). A command-line argument may
 name the directory instead, but the grader passes none.
